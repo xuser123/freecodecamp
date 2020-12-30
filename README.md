@@ -1,4 +1,2 @@
-# freecodecamp
-https://www.freecodecamp.org
-
-These text files are my downloaded solutions from freecodecamp.org
+Tutorials from FreeCodeCamp are needed to complete the second step called "Basics of HTML and CSS" in the "The Front End"-section of TheOdinProject.
+https://www.theodinproject.com
